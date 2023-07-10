@@ -1,4 +1,4 @@
-import { burgers } from "../db/FakeDb.js"
+import { burgers } from "../db/FakeBurgerDb.js"
 import { BadRequest } from "../utils/Errors.js"
 
 class BurgersService {

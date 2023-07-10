@@ -17,6 +17,6 @@ export const burgers = [
     name: 'Plain and Simple',
     price: 3,
     cheese: null
-  }
-]
+  },
 
+]
